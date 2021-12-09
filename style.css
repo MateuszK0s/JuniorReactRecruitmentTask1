@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    margin: 20px 0;
+}
+
+#container{
+    width: 700px;
+    margin: auto;
+}
+  
+table{
+    table-layout: fixed;
+    width: 100%;
+    height: auto;
+}
+
+table td{
+    border: 1px solid black;
+    height: 100px;
+    word-wrap:break-word
+}
+
+
+
